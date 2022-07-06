@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd60f28e-014e-4d69-9eff-67c263832031" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/missing_grades.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cleaning_data.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cleaning_student_names.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/clean_students_complete.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PyCitySchools.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PyCitySchools.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
