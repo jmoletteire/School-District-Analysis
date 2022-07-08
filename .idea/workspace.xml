@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd60f28e-014e-4d69-9eff-67c263832031" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/PyCitySchools_Challenge.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PyCitySchools.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PyCitySchools.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,11 +38,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Jack/Desktop/Analysis Projects/Module 4/PyCitySchools/School-District-Analysis/Resources"
+    "last_opened_file_path": "C:/Users/Jack/Desktop/Analysis Projects/UCF-VIRT-DATA-PT-06-2022-U-B/04-Pandas"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jack\Desktop\Analysis Projects\Module 4\PyCitySchools\School-District-Analysis" />
       <recent name="C:\Users\Jack\Desktop\Analysis Projects\Module 4\PyCitySchools\School-District-Analysis\Resources" />
     </key>
   </component>
